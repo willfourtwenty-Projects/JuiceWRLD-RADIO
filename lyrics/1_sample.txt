@@ -1,0 +1,5 @@
+Add the lyrics yourself by opening adding lyrics<br>
+to the lyrics folder and then opening not_obfuscated.js<br>
+and adding it to its appropriate line.<br>
+I've left some examples.<br>
+ 
