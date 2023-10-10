@@ -29,12 +29,7 @@ Feeling adventurous? Let JuiceWRLD Radio take the wheel and surprise you with a 
 - PHP
 - HACK (backend, not included in this repository)
 - HTML/CSS for the frontend
-
-## Contributions
-We welcome contributions to JuiceWRLD Radio. Whether you want to add more features, improve the user interface, or fix bugs, your help is greatly appreciated. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
 
 ## Acknowledgments
 - Special thanks to Juice WRLD for his incredible music and inspiration.
